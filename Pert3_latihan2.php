@@ -4,8 +4,6 @@
 	</head>
 	<body>
 
-		<!-- Pandu Dewonoto Laut Santoso -->
-
 		<style>
 
 			#besarDiskon{
